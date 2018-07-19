@@ -1,5 +1,5 @@
-#coded by nabla t3ch channel on youtuble
-#youtube.com/nablat3ch
+#coded by nabla CodeOverflow on youtuble
+#youtube.com/Cod3Overflow
 #mohammed abdo al-muntalib
 import sys
 import getopt
